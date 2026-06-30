@@ -1,0 +1,160 @@
+{
+  "appVendor": "SCS SRL",
+  "appID": "ALENA",
+  "appVersion": "1.0.8",
+  "results": [
+    {
+      "id": 417,
+      "ts": "2026-06-29T18:11:05Z",
+      "traceId": "7ffe841f31948a4f6b6f0ad7ac87efc7",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.f8a533c704bc3b4896ef7c9de7426328be0a32c400ead01ebc895a85bbd5ac94.8f9bbe1d3c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT1.pdf"
+      ]
+    },
+    {
+      "id": 418,
+      "ts": "2026-06-29T18:12:07Z",
+      "traceId": "36bf04d28adb71288aed388619a25287",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.500b7e32b3f0d02d9340e24c3408132865355aa333bff2c0c5e3352b2d404769.36af89616b^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT2.pdf"
+      ]
+    },
+    {
+      "id": 419,
+      "ts": "2026-06-29T18:12:38Z",
+      "traceId": "ba5f39535c5a03c3dd3d89b96585b607",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.ba21184d71b75b995d1e8b4509e3ef3455a87864c169ebcadf3d7dee05734f01.0ed16ba5ce^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT3.pdf"
+      ]
+    },
+    {
+      "id": 423,
+      "ts": "2026-06-29T18:24:35Z",
+      "traceId": "2030d746d3cc1c9bd644679a688a1564",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT1.pdf"
+      ],
+      "workflowInstanceId": ""
+    },
+    {
+      "id": 424,
+      "ts": "2026-06-29T18:26:05Z",
+      "traceId": "dd7b59f3633e243583031eec04cd1eaf",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT1.pdf"
+      ],
+      "workflowInstanceId": ""
+    },
+    {
+      "id": 432,
+      "ts": "2026-06-29T18:14:04Z",
+      "traceId": "b6de85a454b169a283462263a3e464a5",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.db2611739c5393ed54741ddf7a4d501300c2ac8fc6788956e8378ac00e4c7e9d.e0fb2af7f3^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT12_KO.pdf"
+      ]
+    },
+    {
+      "id": 433,
+      "ts": "2026-06-29T18:16:31Z",
+      "traceId": "7d2d289facd699b978af9f17c0796ea7",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.50d5e8018502b5f98a50491b6ec83def2669650ec13db2c0afd14028de4ae421.3b75079241^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT13_KO.pdf"
+      ]
+    },
+    {
+      "id": 434,
+      "ts": "2026-06-29T18:17:11Z",
+      "traceId": "637a8ed17f8980eaf7ebdbc1499fdffb",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.f1b04e2f0ebf43a973ee5035d1f1ec5ff35fd0e9a30cd17e691dbc38ee79972e.0765db3c4c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT14_KO.pdf"
+      ]
+    },
+    {
+      "id": 435,
+      "ts": "2026-06-29T18:17:43Z",
+      "traceId": "1de6cda8ac0bb05407c7a0f4d115aee2",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.b1555aeec04c09a2ba7db4f7857c8265d52e62957be01df37093d11e21b4c814.bf95e17ab9^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT15_KO.pdf"
+      ]
+    },
+    {
+      "id": 437,
+      "ts": "2026-06-29T18:18:35Z",
+      "traceId": "ff8ae16cdc39fd4d505fab7f1e1136a5",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.70982754569799e28c435132a4c9f2985749a85893e9deabcccfc2521a4cf536.0e4e480446^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT17_KO.pdf"
+      ]
+    },
+    {
+      "id": 438,
+      "ts": "2026-06-29T18:19:33Z",
+      "traceId": "23488a38a502736c32fcaecf7a2e6af5",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.f188607178fdb0c7d546653411feba9589d5ae8499551a0b488636d658630068.ecddd2452a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT18_KO.pdf"
+      ]
+    },
+    {
+      "id": 440,
+      "ts": "2026-06-29T18:20:08Z",
+      "traceId": "9d16fc47499977c6a6b3554345e9b510",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.2bdfd02f96acd6872c58bac2848f3a29aa089c18dfd646446c25a1725c401983.a5d9adf76e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT20_KO.pdf"
+      ]
+    },
+    {
+      "id": 441,
+      "ts": "2026-06-29T18:20:56Z",
+      "traceId": "2e0fd2527e1d7c0d2c357906987ce737",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.33136fa43223991d7e2d3d8269d96e52b6a4ac5c63471d7a036fd8043dfda140.4b3cec5069^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT21_KO.pdf"
+      ]
+    },
+    {
+      "id": 442,
+      "ts": "2026-06-29T18:21:34Z",
+      "traceId": "3c83b24a6ce20ff200d266633bc0241f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.12fe0606b9139e5ba33c43a798ab1edf69239fa2f40c7f7d6c378bf97224457a.197ea98bbf^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT22_KO.pdf"
+      ]
+    },
+    {
+      "id": 443,
+      "ts": "2026-06-29T18:22:23Z",
+      "traceId": "6d3bd66eeca76e554d428019d55cd133",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.620fd7bad72ee9f031035f15f3bab35eab6f2c1fe56da62734bf05d8c23c3ed9.e2ae3a9ef6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT23_KO.pdf"
+      ]
+    },
+    {
+      "id": 460,
+      "ts": "2026-06-29T18:13:29Z",
+      "traceId": "3bf34a71b9f749a21d3e12035dc52957",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.ac3d608d7ef29610709a0bccae1d71a3e45bdcf703f5bd2900dc7f70ced4103f.4d101128f4^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT24.pdf"
+      ]
+    },
+    {
+      "id": 470,
+      "ts": "2026-06-29T18:23:13Z",
+      "traceId": "fac4fffd52985b441fc1c0efc3bd4e80",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.4.1.1.7183a052069180e35c2d6846ec2f8a58dd6f3d3a90497fdee2a1a1290d151df3.c8f6082808^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "VALIDAZIONE_CDA2_RAP_CT25_KO.pdf"
+      ]
+    }
+  ]
+}
